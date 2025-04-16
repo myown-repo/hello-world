@@ -1,2 +1,2 @@
-# hello-world
+Results-driven IT Professional with 4+ years of experience in infrastructure management, Active Directory administration, system troubleshooting, and enterprise-level IT support. Skilled in managing Entra ID (Azure AD), Group Policy, and Windows Server environments. Experienced in writing automation scripts with PowerShell and delivering high-level support for mission-critical systems. Strong communicator with a passion for solving technical challenges, optimizing systems, and driving operational efficiency in hybrid and cloud infrastructures.# hello-world
 practice code
